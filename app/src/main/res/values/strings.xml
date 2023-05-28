@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="serverHostText">Server Host:</string>
+    <string name="serverPortText">Server Port:</string>
+    <string name="userNameText">User Name:</string>
+    <string name="passwordText">Password:</string>
+    <string name="firstNameText">First Name:</string>
+    <string name="lastNameText">Last Name:</string>
+    <string name="emailText">Email:</string>
+    <string name="genderText">Gender:</string>
+    <string name="maleText">Male</string>
+    <string name="femaleText">Female</string>
+    <string name="signInText">Login</string>
+    <string name="registerText">Register</string>
+    <string name="loginNotSuccessful">Login failed</string>
+    <string name="loginNotSuccessfulPerson">Login failed on getting person info</string>
+    <string name="registerNotSuccessful">Register failed</string>\
+    <string name="registerNotSuccessfulPeopleGetAll">Register failed in people get all</string>
+    <string name="registerNotSuccessfulEventGetALL">Register failed in event get all</string>
+    <string name="registerSuccessful">Register success!</string>
+    <string name="peopleGetAllNotSuccessful">PeopleGetAll failed</string>
+    <string name="eventGetAllNotSuccessful">EventGetAll failed</string>
+    <string name="loginSuccessful">Login success!</string>
+
+    <string name="introMessage">Click on a marker to see event details</string>
+    <string name="map_fragment_welcome">Welcome to FamilyMap!</string>
+    <string name="map_fragment_default">Click on any marker to begin</string>
+
+    <string name="settings_story_lines">Life Story Lines</string>
+    <string name="settings_show_story_lines">SHOW LIFE STORY LINES</string>
+    <string name="settings_tree_lines">Family Tree Lines</string>
+    <string name="settings_show_tree_lines">SHOW FAMILY TREE LINES</string>
+    <string name="settings_spouse_lines">Spouse Lines</string>
+    <string name="settings_show_spouse_lines">SHOW SPOUSE LINES</string>
+
+
+    <string name="male_events">Male Events</string>
+    <string name="gender_events_description">FILTER EVENTS BASED ON GENDER</string>
+    <string name="female_events">Female Events</string>
+    <string name="father_filter">Father\'s Side</string>
+    <string name="father_filter_des">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="mother_filter">Mother\'s Side</string>
+    <string name="mother_filter_des">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+
+    <string name="filter_default">Filter Setting</string>
+    <string name="filter_default_des">Filter Description</string>
+
+
+    <string name="settings_logout">Logout</string>
+    <string name="settings_logout_info">RETURNS TO LOGIN SCREEN</string>
+    <string-array name="life_story_colors">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Magenta</item>
+    </string-array>
+    <string-array name="family_tree_colors">
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Red</item>
+    </string-array>
+    <string-array name="spouse_line_color">
+        <item>Green</item>
+        <item>Dark Grey</item>
+        <item>Light Grey</item>
+    </string-array>
+
+
+    <string name="search_string">Search</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
